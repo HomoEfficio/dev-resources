@@ -2,6 +2,14 @@
 
 Lists of splendid resources on software engineering and development.
 
+## Documentation
+
+### Markdown
+
+- [Markdown Syntax](http://commonmark.org/help/)
+- [Good README.md for a project](https://github.com/dbader/readme-template/blob/master/README.md)
+
+
 ## Server
 
 ### Asynchronous Processing
