@@ -22,6 +22,12 @@ Lists of splendid resources on software engineering and development.
 - [C10k: Developing non-blocking REST services with Spring MVC](http://callistaenterprise.se/blogg/teknik/2014/04/22/c10k-developing-non-blocking-rest-services-with-spring-mvc/)
 - [Servlet 3.0 with Token Bucket Algorithm](http://www.nurkiewicz.com/2011/03/tenfold-increase-in-server-throughput.html)
 
+
+## Machine Learning
+
+- [Machine Learning, Tensorflow - in Korean](http://pythonkim.tistory.com/notice/25)
+
+
 ## For Kids
 
 - [Code.org](https://code.org)
