@@ -9,6 +9,10 @@ Lists of splendid resources on software engineering and development.
 - [Markdown Syntax](http://commonmark.org/help/)
 - [Good README.md for a project](https://github.com/dbader/readme-template/blob/master/README.md)
 
+### Git
+
+- [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+- [How to Write a Git Commit Message in Korean](https://github.com/weirdmeetup/translate/blob/master/articles/2014-08-31-git-commit.md)
 
 ## Server
 
