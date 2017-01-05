@@ -14,6 +14,7 @@ Lists of splendid resources on software engineering and development.
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 - [How to Write a Git Commit Message in Korean](https://github.com/weirdmeetup/translate/blob/master/articles/2014-08-31-git-commit.md)
 - [Merge vs Rebase in Korean](http://dogfeet.github.io/articles/2012/git-merge-rebase.html)
+- [Golden Rule of Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/the-golden-rule-of-rebasing)
 
 
 ## Server
