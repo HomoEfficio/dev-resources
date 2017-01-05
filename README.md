@@ -27,7 +27,7 @@ Lists of splendid resources on software engineering and development.
 - [Spring MVC 3.2 Preview - Async Part 5: Chat Sample](https://spring.io/blog/2012/05/16/spring-mvc-3-2-preview-chat-sample/)
 - [C10k: Developing non-blocking REST services with Spring MVC](http://callistaenterprise.se/blogg/teknik/2014/04/22/c10k-developing-non-blocking-rest-services-with-spring-mvc/)
 - [Servlet 3.0 with Token Bucket Algorithm](http://www.nurkiewicz.com/2011/03/tenfold-increase-in-server-throughput.html)
-
+- [Going Async With ES6 Generators](https://davidwalsh.name/async-generators)
 
 ## Machine Learning
 
