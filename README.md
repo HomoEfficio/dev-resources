@@ -9,6 +9,8 @@ Lists of splendid resources on software engineering and development.
 - [Markdown Syntax](http://commonmark.org/help/)
 - [Good README.md for a project](https://github.com/dbader/readme-template/blob/master/README.md)
 
+## Dev Infra
+
 ### Git
 
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
@@ -16,6 +18,11 @@ Lists of splendid resources on software engineering and development.
 - [Merge vs Rebase in Korean](http://dogfeet.github.io/articles/2012/git-merge-rebase.html)
 - [Golden Rule of Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/the-golden-rule-of-rebasing)
 
+## Language and Programming Paradigm
+
+### Funcional Programming
+
+- [CS 696 Functional Design and Programming(using Clojure)](http://www.eli.sdsu.edu/courses/fall15/cs696/notes/index.html)
 
 ## Server
 
