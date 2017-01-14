@@ -23,6 +23,7 @@ Lists of splendid resources on software engineering and development.
 ### Funcional Programming
 
 - [CS 696 Functional Design and Programming(using Clojure)](http://www.eli.sdsu.edu/courses/fall15/cs696/notes/index.html)
+- [Functional programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
 ## Server
 
