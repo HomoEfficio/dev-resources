@@ -25,6 +25,11 @@ Lists of splendid resources on software engineering and development.
 - [CS 696 Functional Design and Programming(using Clojure)](http://www.eli.sdsu.edu/courses/fall15/cs696/notes/index.html)
 - [Functional programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
+## Front-end
+
+- [How browsers work:Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [How browsers work:Behind the scenes of modern web browsers - in Korean](http://d2.naver.com/helloworld/59361)
+
 ## Server
 
 ### Asynchronous Processing
