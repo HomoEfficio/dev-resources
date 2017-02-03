@@ -43,6 +43,10 @@ Lists of splendid resources on software engineering and development.
 - [Servlet 3.0 with Token Bucket Algorithm](http://www.nurkiewicz.com/2011/03/tenfold-increase-in-server-throughput.html)
 - [Going Async With ES6 Generators](https://davidwalsh.name/async-generators)
 
+## Database
+
+- [Good query for Good Performance - in Korean](http://d2.naver.com/helloworld/1155)
+
 ## Machine Learning
 
 - [Machine Learning, Tensorflow - in Korean](http://pythonkim.tistory.com/notice/25)
