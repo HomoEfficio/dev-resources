@@ -9,6 +9,12 @@ Lists of splendid resources on software engineering and development.
 - [Markdown Syntax](http://commonmark.org/help/)
 - [Good README.md for a project](https://github.com/dbader/readme-template/blob/master/README.md)
 
+## Security
+
+### Web
+
+- [XSS](https://excess-xss.com/)
+
 ## Dev Infra
 
 ### Git
