@@ -31,6 +31,10 @@ Lists of splendid resources on software engineering and development.
 - [CS 696 Functional Design and Programming(using Clojure)](http://www.eli.sdsu.edu/courses/fall15/cs696/notes/index.html)
 - [Functional programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
+### Reactive Programming
+
+- [Intro to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
 ## Front-end
 
 - [How browsers work:Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
