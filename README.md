@@ -26,10 +26,11 @@ Lists of splendid resources on software engineering and development.
 
 ## Language and Programming Paradigm
 
-### Funcional Programming
+### Funtional Programming
 
 - [CS 696 Functional Design and Programming(using Clojure)](http://www.eli.sdsu.edu/courses/fall15/cs696/notes/index.html)
 - [Functional programming with Clojure](http://mooc.fi/courses/2014/clojure/)
+- [How to Switch from the Imperative Mindset](http://www.lispcast.com/imperative-mindset)
 
 ### Reactive Programming
 
