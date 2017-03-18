@@ -68,6 +68,14 @@ Lists of splendid resources on software engineering and development.
 - [Mathigon - old](http://world.mathigon.org/)
 - [Mathigon - being updated](http://world.mathigon.org/)
 
+## Etc
+
+### Blockchains
+
+- [BlockChain 101](https://youtu.be/_160oMzblY8)
+
+
+
 ## For Kids
 
 - [Code.org](https://code.org)
