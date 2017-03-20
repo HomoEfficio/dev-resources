@@ -36,6 +36,11 @@ Lists of splendid resources on software engineering and development.
 
 - [Intro to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
+### Etc
+
+- [Dynamic Language vs Static Language in Korean](http://okky.kr/article/304342?note=1015400)
+
+
 ## Front-end
 
 - [How browsers work:Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
