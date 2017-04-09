@@ -46,6 +46,7 @@ Lists of splendid resources on software engineering and development.
 
 - [How browsers work:Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [How browsers work:Behind the scenes of modern web browsers - in Korean](http://d2.naver.com/helloworld/59361)
+- [VueJS Overview in Korean](http://blog.jeonghwan.net/vue/2017/03/27/vue.html)
 
 ## Server
 
@@ -60,6 +61,7 @@ Lists of splendid resources on software engineering and development.
 - [Servlet 3.0 with Token Bucket Algorithm](http://www.nurkiewicz.com/2011/03/tenfold-increase-in-server-throughput.html)
 - [Going Async With ES6 Generators](https://davidwalsh.name/async-generators)
 - [Handling the Asynchronous Nature of Node.js: Sample Project](https://www.codementor.io/codeforgeek/manage-async-nodejs-callback-example-code-du107q1pn)
+- [SpringMVC async with DeferedResult](http://www.logicbig.com/tutorials/spring-framework/spring-web-mvc/async-deferred/)
 
 ## Database
 
